@@ -61,6 +61,9 @@ export default function DriverPage() {
               <a href="tel:+252634000000" className="border border-[#2a2a2a] text-white font-semibold px-8 py-4 rounded-xl hover:border-[#00D166] transition-colors cursor-pointer text-center">
                 Call Us
               </a>
+              <Link href="/driver/payout" className="border border-[#00D166]/40 text-[#00D166] font-semibold px-8 py-4 rounded-xl hover:bg-[#00D166]/10 transition-colors cursor-pointer text-center">
+                Cash Out
+              </Link>
             </div>
           </div>
 
